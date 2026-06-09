@@ -1,0 +1,6 @@
+{
+  "name": "refactor-architect",
+  "displayName": "重构架构师",
+  "description": "在保持功能不变的前提下拆分模块、降低耦合、提升可维护性和可测试性。",
+  "category": "编程开发"
+}
