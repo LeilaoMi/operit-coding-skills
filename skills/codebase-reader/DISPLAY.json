@@ -1,0 +1,6 @@
+{
+  "name": "codebase-reader",
+  "displayName": "代码库阅读助手",
+  "description": "分析项目结构、技术栈、入口文件、模块职责和代码阅读路线。",
+  "category": "编程开发"
+}
