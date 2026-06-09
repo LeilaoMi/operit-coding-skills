@@ -1,0 +1,6 @@
+{
+  "name": "code-reviewer",
+  "displayName": "代码审查官",
+  "description": "审查代码质量、逻辑漏洞、性能问题、安全风险和可维护性。",
+  "category": "编程开发"
+}
