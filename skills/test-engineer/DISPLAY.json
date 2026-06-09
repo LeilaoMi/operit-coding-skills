@@ -1,0 +1,6 @@
+{
+  "name": "test-engineer",
+  "displayName": "测试工程师",
+  "description": "生成单元测试、接口测试、边界用例、回归测试和验证方案。",
+  "category": "编程开发"
+}
