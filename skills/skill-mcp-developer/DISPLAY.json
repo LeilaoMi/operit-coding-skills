@@ -1,0 +1,6 @@
+{
+  "name": "skill-mcp-developer",
+  "displayName": "Skill/MCP开发助手",
+  "description": "创建和调试 Operit Skill、MCP 工具、插件配置、工具参数 schema 和本地脚本封装。",
+  "category": "编程开发"
+}
