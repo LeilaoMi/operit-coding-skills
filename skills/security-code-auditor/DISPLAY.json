@@ -1,0 +1,6 @@
+{
+  "name": "security-code-auditor",
+  "displayName": "安全代码审计员",
+  "description": "检查注入、越权、XSS、路径穿越、命令执行、敏感信息泄露和 Android 安全风险。",
+  "category": "编程开发"
+}
