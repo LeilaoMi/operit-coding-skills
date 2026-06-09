@@ -1,0 +1,6 @@
+{
+  "name": "bug-fixer",
+  "displayName": "Bug定位与修复助手",
+  "description": "解析报错日志、定位根因、给出最小修复补丁和验证方案。",
+  "category": "编程开发"
+}
