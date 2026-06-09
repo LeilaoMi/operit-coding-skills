@@ -1,0 +1,6 @@
+{
+  "name": "devops-engineer",
+  "displayName": "DevOps部署助手",
+  "description": "处理 Docker、Nginx、systemd、CI/CD、服务部署、日志排查和构建发布。",
+  "category": "编程开发"
+}
